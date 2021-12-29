@@ -1,1 +1,1 @@
-# analise_snis_datasus
+Análise das bases de dados do SNIS e DATASUS com o intuito de criar indicadores a respeito de meio ambiente, saneamento básico e mortalidade.
